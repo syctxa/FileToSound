@@ -1,2 +1,2 @@
 # FiteToSound
-Convert a regular file inta a .wav/.mp3
+Convert a regular file into a .wav/.mp3
