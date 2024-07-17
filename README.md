@@ -1,2 +1,4 @@
 # FiteToSound
-Convert a regular file into a .wav/.mp3
+Convert a regular file into a .wav using tones
+
+#### This is really slow
